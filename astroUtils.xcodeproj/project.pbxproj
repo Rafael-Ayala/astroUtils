@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		53F03F6827A834FD007C1524 /* legendre.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = legendre.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		53F03F6127A834BB007C1524 = {
+			isa = PBXGroup;
+			children = (
+				53F03F6827A834FD007C1524 /* legendre.py */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		53F03F6227A834BB007C1524 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = 53F03F6527A834BB007C1524 /* Build configuration list for PBXProject "astroUtils" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 53F03F6127A834BB007C1524;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		53F03F6627A834BB007C1524 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		53F03F6727A834BB007C1524 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		53F03F6527A834BB007C1524 /* Build configuration list for PBXProject "astroUtils" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				53F03F6627A834BB007C1524 /* Debug */,
+				53F03F6727A834BB007C1524 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 53F03F6227A834BB007C1524 /* Project object */;
+}
