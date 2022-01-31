@@ -27,6 +27,4 @@ def legendre(n, m, lat):
                 (np.sqrt(2*i-1)*cosLat*pnm[i-1,j]) -
                 (np.sqrt(((i+j-1)*(i-j-1))/(2*i-3))*dpnm[i-2,j])))
     return pnm, dpnm
-    
-x=legendre(10,10, 1.3)
-print(x)
+
